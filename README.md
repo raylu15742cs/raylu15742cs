@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Raymond Lu</h1>
 <h3 align="center">I am a Front - End Developer based in Pasadena,CA</h3>
 
-- 🌱 I’m currently learning **React, Figma, Adobe**
+-  I’m currently learning **React, Figma, Adobe**
 
-- 👨‍💻 All of my projects are available at [https://raylu15742cs.github.io/](https://raylu15742cs.github.io/)
+-  All of my projects are available at [https://raylu15742cs.github.io/](https://raylu15742cs.github.io/)
 
-- 📫 How to reach me **raylu1128@gmail.com**
+-  How to reach me **raylu1128@gmail.com**
 
-- ⚡ Fun fact **I enjoy longboarding and playing video games**
+-  Fun fact **I enjoy longboarding and playing video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
