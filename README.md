@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Raymond Lu</h1>
 <h3 align="center">I am a Front - End Developer based in Pasadena,CA</h3>
 
--  I’m currently learning **React, Node, TypeScript, and Tailwind**
+-  I’m currently learning **React, Node, TypeScript, and Tailwind (in progress)**
 
 -  All of my projects are available at [https://raylu15742cs.github.io/](https://raylu15742cs.github.io/)
 
--  How to reach me **raylu1128@gmail.com**
+-  How to reach me **raylucs15742@gmail.com**
 
 -  Fun fact **I enjoy longboarding and playing games like hearthstone and teamfight tactics**
 
