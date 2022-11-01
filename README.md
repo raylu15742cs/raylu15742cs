@@ -7,7 +7,7 @@
 
 -  All of my projects are available at [https://raylu15742cs.github.io/](https://raylu15742cs.github.io/)
 
-- There will be a new link for it soon.  
+- There will be a new link for it soon. The link above is the most up to date stable version.
 
 -  How to reach me **raylucs15742@gmail.com**
 
