@@ -5,7 +5,7 @@
 
 - My Current Focus is on redoing my portfolio site, there are some new features that I would like to add.
 
--  All of my projects are available at [https://raylu15742cs.github.io/](https://raylu15742cs.github.io/)
+-  All of my projects are available at [https://portfolio-raylu15742cs.vercel.app/](https://portfolio-raylu15742cs.vercel.app/)
 
 - There will be a new link for it soon. The link above is the most up to date stable version.
 
