@@ -7,6 +7,8 @@
 
 -  All of my projects are available at [https://raylu15742cs.github.io/](https://raylu15742cs.github.io/)
 
+- There will be a new link for it soon.  
+
 -  How to reach me **raylucs15742@gmail.com**
 
 -  Fun fact **I enjoy longboarding and playing games like hearthstone and teamfight tactics**
