@@ -3,6 +3,8 @@
 
 -  I’m currently learning ** Node**
 
+- My Current Focus is on redoing my portfolio site
+
 -  All of my projects are available at [https://raylu15742cs.github.io/](https://raylu15742cs.github.io/)
 
 -  How to reach me **raylucs15742@gmail.com**
