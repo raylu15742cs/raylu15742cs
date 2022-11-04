@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Raymond Lu</h1>
 <h3 align="center">I am a Front - End Developer based in Pasadena,CA</h3>
 
--  I’m currently learning **Node**
+-  I’m currently learning **Node , React , TypeScript**
 
 - My Current Focus is on redoing my portfolio site, there are some new features that I would like to add.
 
