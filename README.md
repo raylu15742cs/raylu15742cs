@@ -9,7 +9,7 @@
 
 - There will be a new link for it soon. The link above is the most up to date stable version.
 
--  How to reach me **raylucs15742@gmail.com**
+-  How to reach me **raylu1128@gmail.com**
 
 -  Fun fact **I enjoy longboarding and playing games like hearthstone and teamfight tactics**
 
