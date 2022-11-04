@@ -11,7 +11,7 @@
 
 -  Fun fact **I enjoy longboarding and playing teamfight tactics**
 
-<h3 align="left">Connect with me: raylu1128@gmail.com </h3>
+<h3 align="left">Connect with me: </h3> **raylu1128@gmail.com**
 <p align="left">
 </p>
 
