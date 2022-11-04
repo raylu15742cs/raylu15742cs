@@ -9,7 +9,7 @@
 
 -  How to reach me **raylu1128@gmail.com**
 
--  Fun fact **I enjoy longboarding and playing games like hearthstone and teamfight tactics**
+-  Fun fact **I enjoy longboarding and playing teamfight tactics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
