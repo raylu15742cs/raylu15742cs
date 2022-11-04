@@ -3,7 +3,7 @@
 
 -  I’m currently learning **Node , React , TypeScript**
 
-- My Current Focus is on redoing my portfolio site, there are some new features that I would like to add.
+- My Current Focus is on the Node.JS section
 
 -  All of my projects are available at [https://portfolio-raylu15742cs.vercel.app/](https://portfolio-raylu15742cs.vercel.app/)
 
