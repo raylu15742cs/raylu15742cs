@@ -11,7 +11,6 @@
 
 -  Fun fact **I enjoy longboarding and playing teamfight tactics**
 
-
 <p align="left">
 </p>
 
