@@ -11,7 +11,7 @@
 
 -  Fun fact **I enjoy longboarding and playing teamfight tactics**
 
-<h3 align="left">Connect with me: 
+<h3 align="left">Connect with 
 <p align="left">
 </p>
 
