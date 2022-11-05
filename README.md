@@ -11,7 +11,7 @@
 
 -  Fun fact **I enjoy longboarding and playing teamfight tactics**
 
-<h3> Check Out my Youtube Channel https://www.youtube.com/channel/UCZ0lcRhWFgwx0x7qsR-BlsQ </h3>
+<h3> Check Out my Youtube Channel https://www.youtube.com/@raymond-tfl </h3>
 
 <p align="left">
 </p>
