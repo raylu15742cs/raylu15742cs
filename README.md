@@ -3,7 +3,7 @@
 
 -  I’m currently learning **Node , React , TypeScript**
 
-- My Current Focus is on the Node.JS section in the Odin Project
+- Goal of November is to finish the Node.JS section in the Odin Project
 
 -  All of my projects are available at [https://portfolio-raylu15742cs.vercel.app/](https://portfolio-raylu15742cs.vercel.app/)
 
