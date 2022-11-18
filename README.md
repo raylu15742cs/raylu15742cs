@@ -3,7 +3,7 @@
 
 -  I’m currently learning **Node , React , TypeScript , MongoDB**
 
-- Goal of November is to finish the Node.JS section in the Odin Project
+- Goals of November is to finish the Node.JS section in the Odin Project, MongoDB University.
 
 -  All of my projects are available at [https://portfolio-raylu15742cs.vercel.app/](https://portfolio-raylu15742cs.vercel.app/)
 
