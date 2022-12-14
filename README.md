@@ -3,9 +3,7 @@
 
 -  I’m currently using **JavaScript, TypeScript, Python, Node.JS**
 
-- Goals of November is to finish the Node.JS section in the Odin Project, MongoDB University, and Passion Project
-
--  All of my projects are available at [https://portfolio-raylu15742cs.vercel.app/](https://portfolio-raylu15742cs.vercel.app/)
+-  Portfolio Link : [https://portfolio-raylu15742cs.vercel.app/](https://portfolio-raylu15742cs.vercel.app/)
 
 -  How to reach me **raylu1128@gmail.com**
 
