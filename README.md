@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Raymond Lu</h1>
-<h3 align="center">I am a Front - End Developer based in Pasadena,CA</h3>
+<h3 align="center">I am a Software Engineer based in Pasadena,CA</h3>
 
--  I’m currently learning **Node , React , TypeScript , MongoDB**
+-  I’m currently using ** JavaScript, TypeScript, Python, Node.JS**
 
 - Goals of November is to finish the Node.JS section in the Odin Project, MongoDB University, and Passion Project
 
