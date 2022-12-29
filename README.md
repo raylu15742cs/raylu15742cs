@@ -3,7 +3,7 @@
 
 -  I’m currently using **JavaScript, TypeScript, Python, Node.JS**
 
-- Currently working on StudiBetter
+- Currently working on **StudiBetter**
 
 -  Portfolio Link : [https://portfolio-raylu15742cs.vercel.app/](https://portfolio-raylu15742cs.vercel.app/)
 
