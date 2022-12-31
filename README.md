@@ -3,7 +3,7 @@
 
 -  I’m currently using **JavaScript, TypeScript, Python, Node.JS**
 
-- My main focus currently is my **StudiBetter** application
+- My main focus currently is **StudiBetter**
 
 -  Portfolio Link : [https://portfolio-raylu15742cs.vercel.app/](https://portfolio-raylu15742cs.vercel.app/)
 
