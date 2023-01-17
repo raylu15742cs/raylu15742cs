@@ -3,7 +3,7 @@
 
 -  I’m currently using **JavaScript, TypeScript, Python, Node.JS**
 
-- My main focus currently is **StudiBetter** an improved version of quizlet
+- My main focus currently is **StudiBetter** a web application that will help students study
 
 -  Portfolio Link : [https://portfolio-raylu15742cs.vercel.app/](https://portfolio-raylu15742cs.vercel.app/)
 
