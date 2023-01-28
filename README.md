@@ -9,7 +9,7 @@
 
 -  How to reach me **raylu1128@gmail.com**
 
--  Fun fact **I enjoy longboarding and playing teamfight tactics**
+-  Fun fact **I enjoy longboarding in Santa Monica**
 
 <h3> Check Out my Youtube Channel https://www.youtube.com/@raymond-tfl </h3>
 
