@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Raymond Lu</h1>
 <h3 align="center">I am a Software Engineer based in Pasadena,CA</h3>
 
--  I’m currently using **JavaScript, TypeScript, Python, Node.JS**
+-  I’m currently using **React, TypeScript, Python, Node.JS**
 
 - My main focus currently is **StudiBetter** a web application that will help students study
 
