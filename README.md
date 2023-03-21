@@ -5,6 +5,8 @@
 
 - My main focus currently is **StudiBetter** a web application that will help students study
 
+- Another focus of mine is to improve my Data Structure and Algorithms skills.
+
 -  Portfolio Link : [https://portfolio-raylu15742cs.vercel.app/](https://portfolio-raylu15742cs.vercel.app/)
 
 -  How to reach me **raylu1128@gmail.com**
