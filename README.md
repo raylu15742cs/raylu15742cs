@@ -5,7 +5,7 @@
 
 - My main focus currently is **StudiBetter** a web application that will help students study
 
-- Another focus of mine is to improve my Data Structure and Algorithms skills.
+- I am current working on my Data Structure and Algorithms Skills (Python)
 
 -  Portfolio Link : [https://portfolio-raylu15742cs.vercel.app/](https://portfolio-raylu15742cs.vercel.app/)
 
