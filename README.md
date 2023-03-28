@@ -3,7 +3,7 @@
 
 -  I’m currently using **React, TypeScript, Python, Node.JS**
 
-- My main focus currently is **StudiBetter** a web application that will help students study
+- My main focus currently is **StudiBetter** a MERN Stack web application that will help improve students academic performance
 
 - I am current working on my Data Structure and Algorithms Skills (Python)
 
