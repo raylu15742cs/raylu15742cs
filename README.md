@@ -9,8 +9,6 @@
 
 -  Portfolio Link : [https://portfolio-raylu15742cs.vercel.app/](https://portfolio-raylu15742cs.vercel.app/)
 
--  How to reach me **raylu1128@gmail.com**
-
 <h3> Check Out my Youtube Channel https://www.youtube.com/@raymond-tfl </h3>
 
 <p align="left">
