@@ -5,7 +5,7 @@
 
 - My main focus currently is **StudiBetter** a MERN Stack web application that will help improve student's academic performance
 
-- I am current working on my Data Structure and Algorithms Skills (Python)
+- I am current working on my Data Structure and Algorithms Skills (Python) and will be building a website to track and show progression
 
 -  Portfolio Link : [https://portfolio-raylu15742cs.vercel.app/](https://portfolio-raylu15742cs.vercel.app/)
 
