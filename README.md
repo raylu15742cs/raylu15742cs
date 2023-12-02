@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Raymond Lu</h1>
-<h3 align="center">I am a Self Taught Software Engineer based in Pasadena, California</h3>
+<h3 align="center">I am a Software Engineer based in Pasadena, California</h3>
 
 -  I’m currently using **React, TypeScript, Python, Node.JS**
 
